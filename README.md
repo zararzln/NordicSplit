@@ -1,5 +1,4 @@
 # NordicSplit
-# NordicSplit
 
 Expense splitting for Vipps and MobilePay users — built with Swift 6, SwiftUI and Observation.
 
