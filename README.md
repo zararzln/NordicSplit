@@ -50,7 +50,7 @@ NordicSplit/
 
 Xcode 16+ and an iOS 17 device or simulator. No API keys or config needed.
 
-git clone https://github.com/yourusername/NordicSplit
+git clone https://github.com/zararzln/NordicSplit
 open NordicSplit.xcodeproj
 
 ## What's next
